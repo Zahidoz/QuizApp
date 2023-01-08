@@ -1,0 +1,275 @@
+[
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Irish Rebel Alliance",
+      "Irish Republican Army",
+      "Irish Reformation Army",
+      "Irish-Royal Alliance"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which Apollo mission was the last one in NASA&#039;s Apollo program?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Apollo 13", "Apollo 11", "Apollo 15", "Apollo 17"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Peru", "Brazil", "Chile", "Argentina"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+    "correct_answer": 3,
+    "incorrect_answers": ["42 BCE", "264 BCE", "102 CE", "107 BCE"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who tutored Alexander the Great?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Aristotle", "Socrates", "Plato", "King Philip"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In what dialogue did Socrates defend himself to the court of Athens? ",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "The Euthyphro",
+      "The Laws",
+      "The Republic",
+      "The Apology"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+    "correct_answer": 2,
+    "incorrect_answers": ["1999", "1841", "1997", "1900"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Hicksville, New York",
+      "Goldsboro, North Carolina",
+      "Jacksonville, Florida",
+      "Conway, Arkansas"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What year did the Vietnam War end?",
+    "correct_answer": 1,
+    "incorrect_answers": ["1978", "1975", "1967", "1969"]
+  },
+  {
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Goat testicles transplant",
+      "Pig blood transfusion",
+      "Cow liver transplant",
+      "Turkey breast implants"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "New York Spy Ring",
+      "Culper Ring",
+      "Washington&#039;s Spies",
+      "Unnamed"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Bohdan Khmelnytsky was which of the following?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Leader of the Ukrainian Cossacks",
+      "General Secretary of the Communist Party of the USSR",
+      "Prince of Wallachia",
+      "Grand Prince of Novgorod"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Operation Overlord",
+      "Operation Dragoon",
+      "Operation Market Garden",
+      "Operation Torch"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "What was the original name of New York City?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "New London",
+      "New Amsterdam",
+      "New Paris",
+      "New Rome"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Crimean Offensive",
+      "Leningrad-Novgorod Offensive",
+      "Operation Bagration",
+      "Vistula-Oder Offensive"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "In addition to his career as an astrologer and &quot;prophet&quot;, Nostradamus published a 1555 treatise that included a section on what?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Teaching parrots to talk",
+      "Cheating at card games",
+      "Making jams and jellies",
+      "Digging graves"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Edward III", "Richard II", "Edward II", "Henry IV"]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which countries participated in the Lobster War?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Canada and Norway",
+      "Australia and New Zealand",
+      "United States and England",
+      "France and Brazil"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+    "correct_answer": 0,
+    "incorrect_answers": ["DD-445", "DD-992", "DD-444", "DD-446"]
+  },
+  {
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which of these theoretical phycisists first predicted the existence of antimatter?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Niels Bohr",
+      "Paul Dirac",
+      "Albert Einstein",
+      "Werner Heisenberg"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of the American state of Arizona?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Phoenix","Montgomery", "Tallahassee", "Raleigh"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Florida","Ohio", "Idaho", "New Mexico"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "How many time zones does China have?",
+    "correct_answer": 1,
+    "incorrect_answers": ["3","1", "4", "2"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Kuwait", "United Arab Emirates", "Jordan","Qatar"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which UK country features a dragon on their flag?",
+    "correct_answer": 2,
+    "incorrect_answers": ["England", "North Ireland","Wales", "Scotland"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of the US State of New York?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Albany","Buffalo", "New York", "Rochester"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the name of New Zealand&#039;s indigenous people?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Vikings","Maori", "Polynesians", "Samoans"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the smallest country in the world?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Maldives", "Monaco","Vatican City", "Malta"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which ocean borders the west coast of the United States?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Atlantic","Pacific", "Indian", "Arctic"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which country was NOT part of the Soviet Union?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Romania","Turkmenistan", "Belarus", "Tajikistan"]
+  }
+]
+
+      
+
