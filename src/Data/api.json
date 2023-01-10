@@ -204,72 +204,839 @@
     "difficulty": "easy",
     "question": "What is the capital of the American state of Arizona?",
     "correct_answer": 0,
-    "incorrect_answers": ["Phoenix","Montgomery", "Tallahassee", "Raleigh"]
+    "incorrect_answers": ["Phoenix", "Montgomery", "Tallahassee", "Raleigh"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
     "correct_answer": 1,
-    "incorrect_answers": ["Florida","Ohio", "Idaho", "New Mexico"]
+    "incorrect_answers": ["Florida", "Ohio", "Idaho", "New Mexico"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "How many time zones does China have?",
     "correct_answer": 1,
-    "incorrect_answers": ["3","1", "4", "2"]
+    "incorrect_answers": ["3", "1", "4", "2"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
     "correct_answer": 3,
-    "incorrect_answers": ["Kuwait", "United Arab Emirates", "Jordan","Qatar"]
+    "incorrect_answers": ["Kuwait", "United Arab Emirates", "Jordan", "Qatar"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "Which UK country features a dragon on their flag?",
     "correct_answer": 2,
-    "incorrect_answers": ["England", "North Ireland","Wales", "Scotland"]
+    "incorrect_answers": ["England", "North Ireland", "Wales", "Scotland"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "What is the capital of the US State of New York?",
     "correct_answer": 0,
-    "incorrect_answers": ["Albany","Buffalo", "New York", "Rochester"]
+    "incorrect_answers": ["Albany", "Buffalo", "New York", "Rochester"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "What is the name of New Zealand&#039;s indigenous people?",
     "correct_answer": 1,
-    "incorrect_answers": ["Vikings","Maori", "Polynesians", "Samoans"]
+    "incorrect_answers": ["Vikings", "Maori", "Polynesians", "Samoans"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "What is the smallest country in the world?",
     "correct_answer": 2,
-    "incorrect_answers": ["Maldives", "Monaco","Vatican City", "Malta"]
+    "incorrect_answers": ["Maldives", "Monaco", "Vatican City", "Malta"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "Which ocean borders the west coast of the United States?",
     "correct_answer": 1,
-    "incorrect_answers": ["Atlantic","Pacific", "Indian", "Arctic"]
+    "incorrect_answers": ["Atlantic", "Pacific", "Indian", "Arctic"]
   },
   {
     "category": "Geography",
     "difficulty": "easy",
     "question": "Which country was NOT part of the Soviet Union?",
     "correct_answer": 0,
-    "incorrect_answers": ["Romania","Turkmenistan", "Belarus", "Tajikistan"]
+    "incorrect_answers": ["Romania", "Turkmenistan", "Belarus", "Tajikistan"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "King Henry VIII was the second monarch of which European royal house?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Tudor", "York", "Stuart", "Lancaster"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "How many manned moon landings have there been?",
+    "correct_answer": 1,
+    "incorrect_answers": ["1", "6", "3", "7"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which of the following African countries was most successful in resisting colonization?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "C&ocirc;te d&rsquo;Ivoire",
+      "Ethiopia",
+      "Congo",
+      "Namibia"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Dorians", "Illyrians", "Achaeans", "Ionians"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Czar Nicholas II",
+      "Elizabeth I",
+      "Henry VIII",
+      "Marie Antoinette"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+    "correct_answer": 3,
+    "incorrect_answers": ["W", "U", "J", "X"]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first president of the United States?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "James Madison",
+      "George Washington",
+      "Thomas Jefferson",
+      "James K. Polk"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Daniel Defoe",
+      "Robert Harley",
+      "John Blunt",
+      "John Churchill"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first prime minister of Canada?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "John Abbott",
+      "John Macdonald",
+      "Alexander Mackenzie",
+      "Robert Borden"
+    ]
+  },
+  {
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which of the following countries was not an axis power during World War II?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Italy", "Germany", " Soviet Union", "Japan"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which city is the capital of Switzerland?",
+    "correct_answer": "Bern",
+    "incorrect_answers": ["Z&uuml;rich", "Frankfurt", "Wien"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Australia?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Canberra", "Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "On which continent is the country of Angola located?",
+    "correct_answer": 3,
+    "incorrect_answers": ["South America", "Europe", "Asia", "Africa"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which of these is NOT an island that is part of the Philippines?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Luzon", "Mindanao", "Java", "Palawan"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the largest lake in the African continent?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Lake Victoria",
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Turkana"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What tiny principality lies between Spain and France?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Liechtenstein", "Monaco", "San Marino", "Andorra"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Broome is a town in which state of Australia?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Northern Territory",
+      "South Australia",
+      "Western Australia",
+      "Tasmania"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Greenland?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Sisimiut", "Narsaq", "Nuuk", "Maniitsoq"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which of these countries is not a United Nations member state?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Niue", "Tuvalu", "South Sudan", "Montenegro"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Kazan", "Kaliningrad", "Kursk", "Krasnodar"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which of these countries is NOT a part of the Asian continent?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Georgia", "Suriname", "Russia", "Singapore"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which of these is NOT a province in China?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Fujian", "Yangtze", "Sichuan", "Guangdong"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The mountainous Khyber Pass connects which of the two following countries?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "India and Nepal",
+      "Pakistan and India",
+      "Tajikistan and Kyrgyzstan",
+      "Afghanistan and Pakistan"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which is the largest freshwater lake in the world?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Lake Superior ",
+      "Caspian Sea",
+      "Lake Michigan",
+      "Lake Huron"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the area of Vatican City?",
+    "correct_answer": 2,
+    "incorrect_answers": ["0.10km^2", "0.86km^2", "0.44km^2", "12.00km^2"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the most populous Muslim-majority nation in 2010?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Saudi Arabia", "Iran", "Indonesia", "Sudan"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the tallest mountain in Canada?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Mont Tremblant",
+      "Whistler Mountain",
+      "Blue Mountain",
+      "Mount Logan"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Vietnam", "India", "Thailand", "Indonesia"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the capital of Mauritius?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Port Louis",
+      "Port Moresby",
+      "Port Vila",
+      "Port-au-Prince"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Bird", "Sickle", "Tree", "Crown"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "The ancient Roman god of war was commonly known as which of the following?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Mars", "Jupiter", "Juno", "Ares"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Castor", "Daedalus", "Jason", "Odysseus"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "Who was the King of Gods in Ancient Greek mythology?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Apollo", "Zeus", "Hermes", "Poseidon"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "The greek god Poseidon was the god of what?",
+    "correct_answer": 0,
+    "incorrect_answers": ["The Sea", "War", "Sun", "Fire"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Hercules", "Perseus", "Daedalus", "Orpheus"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "In most traditions, who was the wife of Zeus?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Hera", "Aphrodite", "Athena", "Hestia"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Minotaur", "Centaur", "Pegasus", "Gorgon"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "What mythology did the god &quot;Apollo&quot; come from?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Roman and Spanish",
+      "Greek and Chinese",
+      "Greek and Roman",
+      "Greek, Roman and Norse"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Mermaids", "Harpies", "Nymph", "Lilith"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "easy",
+    "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Victory", "Courage", "Strength", "Honor"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Birdie", "Bogey", "Eagle", "Albatross"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "Leicester City",
+      "West Bromwich Albion"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Liverpool",
+      "Leicester City",
+      "Cheslea",
+      "Manchester United"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+    "correct_answer": 1,
+    "incorrect_answers": ["0 - 1", "7 - 1", "3 - 4", "16 - 0"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What year did the New Orleans Saints win the Super Bowl?",
+    "correct_answer": 2,
+    "incorrect_answers": ["2008", "2009", "2010", "2011"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "When was the first official international game played?",
+    "correct_answer": 3,
+    "incorrect_answers": ["1880", "1863", "1865", "1872"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which African American is in part responsible for integrating  Major League baseball?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Curt Flood",
+      "Roy Campanella",
+      "Satchell Paige",
+      "Jackie Robinson"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is the name of Manchester United&#039;s home stadium?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Anfield",
+      "Old Trafford",
+      "City of Manchester Stadium",
+      "St James Park"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Brooklyn", "Las Vegas", "Boston", "Seattle"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which two teams played in Super Bowl XLII?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "The Green Bay Packers &amp; The Pittsburgh Steelers",
+      "The New York Giants &amp; The New England Patriots",
+      "The Philadelphia Eagles &amp; The New England Patriots",
+      "The Seattle Seahawks &amp; The Denver Broncos"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+    "correct_answer": 2,
+    "incorrect_answers": ["Ares", "Artemis", "Athena", "Apollo"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "Hera is god of...",
+    "correct_answer": 1,
+    "incorrect_answers": ["Agriculture", "Marriage", "Sea", "War"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Janus", "Vulcan", "Juno", "Mars"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "In Greek Mythology, who killed Achilles?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Hector", "Helen", "Pericles", "Paris"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "A minotaur is half human half what?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Cow", "Horse", "Bull", "Eagle"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Horus", "Ra", "Anhur", "Set"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "Which of the following is not one of the Greek Fates?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Clotho", "Narcissus", "Atropos", "Lachesis"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "What is the name of the first human being in Norse mythology?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Asmund", "Ask", "Ake", "Asger"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "What is the name of the Greek god of peaceful deaths?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Tartarus", "Thanatos", "Hades", "Moros"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "medium",
+    "question": "Hel was the daughter of which Norse Mythological figure?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Thor", "Odin", "Loki", "Balder"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Crete", "Sardinia", "Sicily", "Cyprus"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Tied to a boulder for eternity, being pecked by birds.",
+      "Standing in a lake filled with water he could not drink.",
+      "Cursed to roll a boulder up a hill for eternity.",
+      "To fell a tree that regenerated after every axe swing."
+    ]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Excessive mutilation of animal corpses.",
+      "Performing a ritual involving murder.",
+      "Drinking the blood of many slain animals.",
+      "Participating in cannibalism."
+    ]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "In Greek Mythology, who was the daughter of King Minos?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Athena", "Ariel", "Ariadne", "Alana"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "Which of the following is NOT a god in Norse Mythology.",
+    "correct_answer": 1,
+    "incorrect_answers": ["Loki", "Jens", "Tyr", "Snotra"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "Nidhogg is a mythical creature from what mythology?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Norse", "Egyptian", "Greek", "Hindu"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "Who is the Egyptian god of reproduction and lettuce?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Menu", "Mut", "Min", "Meret"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+    "correct_answer": 1,
+    "incorrect_answers": ["Mountain", "Tree", "Temple", "Castle"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "Which Norse God has a horse named Sleipnir?",
+    "correct_answer": 3,
+    "incorrect_answers": ["Thor", "Frigg", "Balder", "Odin"]
+  },
+  {
+    "category": "Mythology",
+    "difficulty": "hard",
+    "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+    "correct_answer": 0,
+    "incorrect_answers": ["Aristaeus", "Autonoe", "Carme", "Cephisso"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "A stimpmeter measures the speed of a ball over what surface?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      " Football Pitch",
+      "Cricket Outfield",
+      "Pinball Table",
+      "Alain Prost"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Ayrton Senna",
+      "Niki Lauda",
+      "Alain Prost",
+      "Emerson Fittipaldi"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Qatar", "Uganda", "Vietnam", "Bolivia"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which team was the 2014-2015 NBA Champions?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Cleveland Cavaliers",
+      "Golden State Warriors",
+      "Houston Rockets",
+      "Atlanta Hawks"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": 1,
+    "incorrect_answers": [
+      "Melbourne Storm",
+      "Penrith Panthers",
+      "Sydney Roosters",
+      "North Queensland Cowboys"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+    "correct_answer": 2,
+    "incorrect_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Mercedes-AMG Petronas",
+      "Red Bull Racing Renault"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+    "correct_answer": 2,
+    "incorrect_answers": ["Chris Benoit", "Lex Luger", "Owen Hart", "Al Snow"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Who won the 2011 Stanley Cup?",
+    "correct_answer": 3,
+    "incorrect_answers": [
+      "Montreal Canadiens",
+      "New York Rangers",
+      "Toronto Maple Leafs",
+      "Boston Bruins"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Tunisia",
+      "United States of America",
+      "Italy",
+      "Netherlands"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Who won the 2018 Monaco Grand Prix?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "Daniel Ricciardo",
+      "Sebastian Vettel",
+      "Kimi Raikkonen",
+      "Lewis Hamilton"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Ten","Nine", "Seven", "Eight"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Toyota","Mazda", "Subaru", "Nissan"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": 0,
+    "incorrect_answers": [
+      "DING Ning (China)",
+      "LI Xiaoxia (China)",
+      "Ai FUKUHARA (Japan)",
+      "Song KIM (North Korea)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which year was the third Super Bowl held?",
+    "correct_answer": 2,
+    "incorrect_answers": ["1968", "1971","1969", "1970"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+    "correct_answer": 3,
+    "incorrect_answers": ["West Germany", "Soviet Union", "Brazil","Portugal"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+    "correct_answer": 3,
+    "incorrect_answers": ["New York", "Seattle", "Tampa Bay","Pittsburgh"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+    "correct_answer": 2,
+    "incorrect_answers": ["David Seamen", "Ashley Cole","Eric Cantona", "Mark Hughes"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Chess","Horse Racing", "Jousting", "Fencing"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+    "correct_answer": 1,
+    "incorrect_answers": ["Rostov-on-Don","Vladivostok", "Yekaterinburg", "Kaliningrad"]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+    "correct_answer": 0,
+    "incorrect_answers": ["Hull City","Cardiff City", "Bristol City", "Manchester City"]
   }
 ]
-
-      
-

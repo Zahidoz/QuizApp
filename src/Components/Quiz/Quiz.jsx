@@ -93,7 +93,6 @@ const Quiz = () => {
               <option value="zero">Select Category</option>
               <option value="History">History</option>
               <option value="Geography">Geography</option>
-              <option value="Art">Art</option>
               <option value="Sports">Sports</option>
               <option value="Mythology">Mythology</option>
             </select>
